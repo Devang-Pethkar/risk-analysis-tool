@@ -1,5 +1,5 @@
 """
-Risk Analysis Tool: 360 Huntington Fund
+Risk Analysis Tool:
 Search any ticker for a full risk report with direct Excel export
 """
 
